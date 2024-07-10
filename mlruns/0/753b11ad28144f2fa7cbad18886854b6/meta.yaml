@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/project_depi/project/mlflow/mlflowproject/mlruns/0/753b11ad28144f2fa7cbad18886854b6/artifacts
+end_time: 1720603199720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 753b11ad28144f2fa7cbad18886854b6
+run_name: peaceful-wolf-287
+run_uuid: 753b11ad28144f2fa7cbad18886854b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720603196787
+status: 3
+tags: []
+user_id: ayah4
