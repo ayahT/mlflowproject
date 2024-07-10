@@ -1,3 +1,6 @@
 mlflow==2.14.2
 
 #F:\project_depi\project\mlflow\mlflowproject>conda create -n mlproject python=3.8 -y
+
+#export DAGSHUB_USER='ayahT'
+#export DAGSHUB_TOKEN='4ec37817b36aa283439c3d8c38435002a1edc7ad'
