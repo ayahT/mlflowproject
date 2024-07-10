@@ -1,4 +1,6 @@
 import dagshub
+import os
+
 os.environ['DAGSHUB_USER'] = 'ayahT'
 os.environ['DAGSHUB_TOKEN'] = '4ec37817b36aa283439c3d8c38435002a1edc7ad'
 
@@ -6,7 +8,6 @@ os.environ['DAGSHUB_TOKEN'] = '4ec37817b36aa283439c3d8c38435002a1edc7ad'
 dagshub.init(repo_owner='ayahT', repo_name='mlflowproject', mlflow=True)
 
 import mlflow
-import os
 import warnings
 import sys
 
